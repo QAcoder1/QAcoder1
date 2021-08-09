@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QAcoder1  
 - 👀 I’m interested in developing my skill
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new functions
+- 💞️ I’m looking to collaborate on learning  new functions
 - 📫 How to reach me ...
 
 <!---
